@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houssem Khanfir</h1>
-<h3 align="center">Network an Telecommunication Engineer from Tunisia</h3>
+<h3 align="center">Network and Telecommunication Engineer from Tunisia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
