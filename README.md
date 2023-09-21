@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-khanfir&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-khanfir" /> </p>
 
 - 🌱 I’m currently learning **all about Data Mining and Data Science fields**
-- 🔭 I’m currently working on **Wheel Of Fortune**
+- 🔭 I’m currently working on **Pytrhon Projects**
 - 💬 Ask me about **Python,JS,C++**
 - 📫 How to reach me **houssemkhanfir78@gmail.com**
 - ⚡ Fun fact **I think I'm funny**
